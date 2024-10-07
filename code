@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "Enter the val1 and val2"
+read val1
+read val2
+pro=$((val* val2))
+echo "prod of $val1 and val2 i $pro"
